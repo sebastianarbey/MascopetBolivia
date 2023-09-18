@@ -11,10 +11,14 @@ body {
 
 /* Estilos generales */
 header {
-    background-color: blue;
+    background-color: lightgreen;
     color: white;
     padding: 20px;
     text-align: center;
+}
+
+h1{
+color:blue;
 }
 
 nav ul {
