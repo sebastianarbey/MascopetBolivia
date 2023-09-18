@@ -30,15 +30,17 @@ font-size:20px;
 
 
 
-.spab{
+img.spab{
 border-radius:50%;
 width:430px;
 height:430px;
+transition: transform 0.3s ease-in-out; 
 }
 
-img:hover{
-font-size:40px;
-}
+
+
+
+
 
 .presentacion{
 width:80%;
