@@ -15,8 +15,12 @@ body {
 header {
     background-color: lightgreen;
     color: white;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
+}
+
+header  a {
+text-decoration:none;
 }
 
 .spab{
