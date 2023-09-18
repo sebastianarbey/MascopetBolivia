@@ -23,12 +23,18 @@ header  a {
 text-decoration:none;
 }
 
+
+
 .spab{
 border-radius:50%;
 width:430px;
 height:430px;
 }
 
+.presentacion{
+width:80%;
+height:280px;
+}
 
 h1{
 color:blue;
