@@ -58,21 +58,6 @@ transition: transform 0.3s ease-in-out;
     animation: imageAnimation 15s linear infinite;
 }
 
-
-@keyframes imageAnimation {
-    0%, 100% {
-        opacity: 0;
-        z-index: 0;
-    }
-    25%, 75% {
-        opacity: 1;
-        z-index: 1;
-    }
-}
-
-
-
-
 h1{
 font-size:35px;
 color:#3498DB ;
