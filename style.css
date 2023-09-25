@@ -42,8 +42,8 @@ transition: transform 0.3s ease-in-out;
 
 .image-container {
     position: relative;
-    width: 60%; /* Ajusta el tamaño según tus imágenes */
-    height: 330px; /* Ajusta el tamaño según tus imágenes */
+    width: 61%; /* Ajusta el tamaño según tus imágenes */
+    height: 350px; /* Ajusta el tamaño según tus imágenes */
    margin:auto;
 }
 
