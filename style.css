@@ -42,7 +42,7 @@ transition: transform 0.3s ease-in-out;
 
 .image-container {
     position: relative;
-    width: 59%; /* Ajusta el tamaño según tus imágenes */
+    width: 61%; /* Ajusta el tamaño según tus imágenes */
     height: 350px; /* Ajusta el tamaño según tus imágenes */
    margin:auto;
 }
@@ -52,7 +52,7 @@ transition: transform 0.3s ease-in-out;
     justify-content: center;
     align-items: center;
     position: absolute;
-    width: 100%;
+    width: 95%;
     height: 100%;
     opacity: 8;
     animation: imageAnimation 15s linear infinite;
