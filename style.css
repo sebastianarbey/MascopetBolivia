@@ -48,6 +48,7 @@ transition: transform 0.3s ease-in-out;
 }
 
 .image {
+    margin:auto;
     display: flex;
     justify-content: center;
     align-items: center;
