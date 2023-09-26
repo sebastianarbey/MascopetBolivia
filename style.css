@@ -52,7 +52,7 @@ transition: transform 0.3s ease-in-out;
     justify-content: center;
     align-items: center;
     position: absolute;
-    width: 95%;
+    width: 92%;
     height: 100%;
     opacity: 8;
     animation: imageAnimation 15s linear infinite;
