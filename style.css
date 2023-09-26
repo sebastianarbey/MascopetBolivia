@@ -43,12 +43,11 @@ transition: transform 0.3s ease-in-out;
 .image-container {
     position: relative;
     width: 61%; /* Ajusta el tamaño según tus imágenes */
-    height: 360px; /* Ajusta el tamaño según tus imágenes */
+    height: 370px; /* Ajusta el tamaño según tus imágenes */
    margin:auto;
 }
 
 .image {
-    margin:auto;
     display: flex;
     justify-content: center;
     align-items: center;
